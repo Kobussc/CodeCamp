@@ -1,2 +1,2 @@
-# CodeCamp
-Exercises and Challenges
+# Initial page
+
