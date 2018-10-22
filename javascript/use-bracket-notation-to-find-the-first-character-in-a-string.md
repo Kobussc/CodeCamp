@@ -8,9 +8,6 @@ For example, the character at index 0 in the word "Charles" is "C". So if `var f
 
 Use bracket notation to find the first character in the `lastName`variable and assign it to `firstLetterOfLastName`.
 
-**Hint**  
-Try looking at the `firstLetterOfFirstName`variable declaration if you get stuck.
-
 ## Solution:
 
 ```javascript
