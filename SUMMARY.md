@@ -10,7 +10,9 @@
   * [Appending variables to Strings](javascript/appending-variables-to-strings.md)
   * [Find the Length of a String](javascript/find-the-length-of-a-string.md)
   * [Use Bracket Notation to Find the First Character in a String](javascript/use-bracket-notation-to-find-the-first-character-in-a-string.md)
-  * [Untitled](javascript/untitled.md)
-* [Untitled](untitled-1.md)
-* [Untitled](untitled.md)
+  * [Understand String Immutability](javascript/untitled.md)
+  * [Use Bracket Notation to Find the Nth Character in a String](javascript/use-bracket-notation-to-find-the-nth-character-in-a-string.md)
+  * [Use Bracket Notation to Find the Last Character in a String](javascript/use-bracket-notation-to-find-the-last-character-in-a-string.md)
+  * [Use Bracket Notation to Find the Nth-to-Last Character in a String](javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string.md)
+  * [Untitled](javascript/untitled-1.md)
 
