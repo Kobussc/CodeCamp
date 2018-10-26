@@ -58,5 +58,10 @@
   * [Replacing If Else Chains with Switch](javascript/replacing-if-else-chains-with-switch.md)
   * [Returning Boolean Values from Functions](javascript/returning-boolean-values-from-functions.md)
   * [Return Early Pattern for Functions](javascript/return-early-pattern-for-functions.md)
+  * [Counting Cards](javascript/counting-cards.md)
+  * [Build JavaScript Objects](javascript/build-javascript-objects.md)
+  * [Accessing Object Properties with Dot Notation](javascript/accessing-object-properties-with-dot-notation.md)
+  * [Accessing Object Properties with Bracket Notation](javascript/accessing-object-properties-with-bracket-notation.md)
+  * [Accessing Object Properties with Variables](javascript/untitled-3.md)
   * [Untitled](javascript/untitled-2.md)
 
